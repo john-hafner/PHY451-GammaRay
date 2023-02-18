@@ -1,0 +1,5 @@
+detector,element, ROI_Start,ROI_End,Gross,Net,Centroid,FWHM
+na,na22,20,36,3214,891,28,10
+na,na22,38,59,5265,1237,48,8
+na,na22,285,350,24434,22055,317,26
+na,na22,723,817,3978,3551,773,38
