@@ -1,0 +1,4 @@
+detector,element,ROI_Start,ROI_End,Gross,Net,Centroid,FWHM
+ge,co60,702,709,8800,7819,704,3
+ge,co60,795,804,7538,7022,801,3
+ge,co60,876,882,69,50,879,4
